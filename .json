@@ -666,7 +666,7 @@
 
             "abbreviation": "BSU",
 
-            "prestige": "80",
+            "prestige": "40",
 
             "state": "Idaho",
 
@@ -702,7 +702,7 @@
 
             "abbreviation": "BYU",
 
-            "prestige": "80",
+            "prestige": "40",
 
             "state": "Utah",
 
@@ -714,7 +714,7 @@
 
             "abbreviation": "USU",
 
-            "prestige": "80",
+            "prestige": "40",
 
             "state": "Utah",
 
@@ -738,7 +738,7 @@
 
             "abbreviation": "UofU",
 
-            "prestige": "100",
+            "prestige": "95",
 
             "state": "Utah",
 
